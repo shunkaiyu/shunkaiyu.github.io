@@ -27,11 +27,11 @@ Things I like:
 Classes taken this quarter:
 
 1. CSE101 and CSE110
-  -Required by my major
-    -[README file](README.md)
+   - Required by my major
+     - [README file](README.md)
 2. ECE150
-  -This is actually fun
-    -I will recommend this course
+   - This is actually fun
+     - I will recommend this course
 
 **Place I want to go**  _South pole!!!_ 
 - [x] Japan
