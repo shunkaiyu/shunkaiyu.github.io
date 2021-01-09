@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Personal Website
 
-You can use the [editor on GitHub](https://github.com/shunkaiyu/shunkaiyu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [link here](https://github.com/shunkaiyu/shunkaiyu.github.io/edit/main/shunkaiyu.md) to access this personal website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
