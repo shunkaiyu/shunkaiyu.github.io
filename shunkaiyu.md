@@ -28,7 +28,7 @@ Classes taken this quarter:
 
 1. CSE101 and CSE110
    - Required by my major
-     - [README file](README.md)
+     - [README file(nested link)](README.md)
 2. ECE150
    - This is actually fun
      - I will recommend this course
