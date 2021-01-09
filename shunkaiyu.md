@@ -3,7 +3,7 @@
 
 I am Shunkai Yu. I am a third-year student majoring in computer engineering at UC San Diego.
 
-You can use the [link here](https://github.com/shunkaiyu/shunkaiyu.github.io/edit/main/shunkaiyu.md) to access this personal website.
+You can use the [link here](https://github.com/shunkaiyu/shunkaiyu.github.io/blob/main/shunkaiyu.md) to access this personal website.
 
 ### About me
 
