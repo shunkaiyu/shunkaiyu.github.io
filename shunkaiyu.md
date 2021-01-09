@@ -1,4 +1,4 @@
-![Image](shunkaiyu/Lab1/pokemon.png)
+![Image](pokemon.png)
 ## Shunkai Yu
 
 I am Shunkai Yu. I am a third-year student majoring in computer engineering at UC San Diego.
@@ -19,12 +19,6 @@ git add
 git commit
 ```
 
-Languages I learned:
-
-# Java
-## C/C++
-### Python
-
 Things I like:
 
 - Reading
@@ -44,6 +38,6 @@ Classes taken this quarter:
 - [ ] North Europe
 - [x] England
 
-### [GitHub Pages](https://pages.github.com/).
+# [GitHub Pages](https://pages.github.com/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
