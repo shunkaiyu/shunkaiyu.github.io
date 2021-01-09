@@ -1,36 +1,50 @@
-## Personal Website
+## Shunkai Yu
+
+I am Shunkai Yu. I am a third-year student majoring in computer engineering at UC San Diego.
 
 You can use the [link here](https://github.com/shunkaiyu/shunkaiyu.github.io/edit/main/shunkaiyu.md) to access this personal website.
 
+### About me
 
-### Markdown
+I will quote a saying from Steve Jobs here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking." 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+In HW1, I use commands following:
+```
+git clone
+git branch
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Languages I learned:
 
-### Jekyll Themes
+# Java
+## C/C++
+### Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shunkaiyu/shunkaiyu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Things I like:
 
-### Support or Contact
+- Reading
+- Party
+
+Classes taken this quarter:
+
+1. CSE101 and CSE110
+  -Required by my major
+  -[Lab1 for CSE110](docs/CONTRIBUTING.md)
+2. ECE150
+  -This is actually fun
+  -I will recommend this course
+
+**Place I want to go**  _South pole!!!_ 
+- [x] Japan
+- [ ] North Europe
+- [x] England
+
+[Link](url) and ![Image](src)
+
+### [GitHub Pages](https://pages.github.com/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
