@@ -1,3 +1,4 @@
+![Image](shunkaiyu/Lab1/pokemon.png)
 ## Shunkai Yu
 
 I am Shunkai Yu. I am a third-year student majoring in computer engineering at UC San Diego.
@@ -33,7 +34,7 @@ Classes taken this quarter:
 
 1. CSE101 and CSE110
   -Required by my major
-  -[Lab1 for CSE110](docs/CONTRIBUTING.md)
+  -[Lab1 for CSE110](shunkaiyu/Lab1/README.md)
 2. ECE150
   -This is actually fun
   -I will recommend this course
@@ -42,8 +43,6 @@ Classes taken this quarter:
 - [x] Japan
 - [ ] North Europe
 - [x] England
-
-[Link](url) and ![Image](src)
 
 ### [GitHub Pages](https://pages.github.com/).
 
