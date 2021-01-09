@@ -28,7 +28,7 @@ Classes taken this quarter:
 
 1. CSE101 and CSE110
   -Required by my major
-  -[Lab1 for CSE110](shunkaiyu/Lab1/README.md)
+  -[Lab1 for CSE110](README.md)
 2. ECE150
   -This is actually fun
   -I will recommend this course
@@ -38,6 +38,8 @@ Classes taken this quarter:
 - [ ] North Europe
 - [x] England
 
-# [GitHub Pages](https://pages.github.com/).
+# [GitHub Pages](https://pages.github.com/)
+
+Thanks to GitHub.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
